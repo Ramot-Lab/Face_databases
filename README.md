@@ -130,8 +130,7 @@ Van der Schalk, J., Hawk, S. T., Fischer, A. H., & Doosje, B. J. Moving faces, l
 
 [https://www.researchgate.net/profile/Agneta_Fischer/publication/51587980_Moving_Faces_Looking_Places_Validation_of_the_Amsterdam_Dynamic_Facial_Expression_Set_ADFES/links/0fcfd510b913c9f849000000/Moving-Faces-Looking-Places-Validation-of-the-Amsterdam-Dynamic-Facial-Expression-Set-ADFES.pdf](https://www.researchgate.net/profile/Agneta_Fischer/publication/51587980_Moving_Faces_Looking_Places_Validation_of_the_Amsterdam_Dynamic_Facial_Expression_Set_ADFES/links/0fcfd510b913c9f849000000/Moving-Faces-Looking-Places-Validation-of-the-Amsterdam-Dynamic-Facial-Expression-Set-ADFES.pdf)
 
-### 
-Conditions 
+### Conditions 
 
 The researchers involved in producing this stimulus set permit its use for scientific research, free of charge, on the basis of the following agreement with the user: 
 
@@ -147,8 +146,38 @@ The researchers involved in producing this stimulus set permit its use for scien
 ## London Set
 https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666 
 
+### Reference
+
+Can be generated on the website for any given journal.
+DeBruine, Lisa; Jones, Benedict (2017): Face Research Lab London Set. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5047666.v3 
+
+[DOI](https://doi.org/10.6084/m9.figshare.5047666.v3)
+
+
+### Conditions
+All individuals gave signed consent for their images to be "used in lab-based and web-based studies in their original or altered forms and to illustrate research (e.g., in scientific journals, news media or presentations)." 
+
+
 ## Wilma Bainbridge
 http://www.wilmabainbridge.com/facememorability2.html 
+
+This database contains 10 168 natural face photographs and several measures for 2 222 of the faces, including memorability scores, computer vision and psychology attributes, and landmark point annotations. The face photographs are JPEGs with 72 pixels/in resolution and 256-pixel height. The attribute data are stored in either MATLAB or Excel files. Landmark annotations are stored in TXT files.
+
+Downloaded are all the files, there is a lot of readme and mat/xlsx/html files, check it.
+
+### Reference
+
+*Main Citation:* Bainbridge, W.A., Isola, P., & Oliva, A. (2013). The intrinsic memorability of face images. Journal of Experimental Psychology: General. Journal of Experimental Psychology: General, 142(4), 1323-1334. 
+
+*Related citation:* Khosla, A., Bainbridge, W.A., Torralba, A., & Oliva, A. (2013). Modifying the memorability of face photographs. Proceedings of the International Conference on Computer Vision (ICCV), Sydney, Australia. Please cite in addition if you use the annotations.
+
+### Conditions
+
+This one has a few of them, needs to be contacted (and takes quite long but Michal can help). Based on our emails:
+
+Keep in mind that you CANNOT publish faces from the individuals in the 10k-image dataset, only faces from the 49-image dataset. Also keep in mind that the database cannot be used for profit.
+
+**we would appreciate it if you update us on who has access to the database if it changes, just so we can keep our access records up to date. A quick email with the names of people who have access will work!**
 
 
 ## Basel database 
