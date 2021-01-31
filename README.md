@@ -198,11 +198,20 @@ Walker, M., Schönborn, S., Greifeneder, R., & Vetter, T. (2018). The Basel Face
 
 
 ### Conditions
-
 The BFD has been developed by Mirella Walker and colleagues at the University of Basel, Switzerland. The BFD can be used freely for non-commercial scientific research.
 
 The only problem is that they state that the images may not be modified ([point 4](https://bfd.unibas.ch/en/request/license-agreement/)).
 
+## Bogazici face database (Turks, not downloaded)
+[University](https://socpsy.boun.edu.tr/materials/faces) and the [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192018) where there is a form for asking for the database.
+
+Face database of Turkish undergraduate student targets. High-resolution standardized photographs were taken and supported by the following materials: (a) basic demographic and appearance-related information, (b) two types of landmark configurations (for Webmorph and geometric morphometrics (GM)), (c) facial width-to-height ratio (fWHR) measurement, (d) information on photography parameters, (e) perceptual norms provided by raters
+
+### Reference
+Saribay SA, Biten AF, Meral EO, Aldan P, Třebický V, Kleisner K (2018) The Bogazici face database: Standardized photographs of Turkish faces with supporting materials. PLoS ONE 13(2): e0192018. doi:10.1371/journal.pone.0192018
+
+### Conditions
+Data are available from Bogazici University, Department of Psychology for researchers who meet the criteria for access to confidential data. As stated within the paper, an e-mail request must be sent to psy@boun.edu.tr and an agreement form must be signed, scanned, and sent back, upon which data are electronically transferred.
 
 ## Mac Brain (not working)
 https://www.macbrain.org/resources.htm 
