@@ -182,13 +182,44 @@ Keep in mind that you CANNOT publish faces from the individuals in the 10k-image
 
 ## Basel database 
 https://bfd.unibas.ch/en/ 
-### Conditions
-the only problem is that they state that the images may not be modified
-Downloaded, not used, came from mirella.walker@unibas.ch but rebecca.goetsch@stud.unibas.ch replied
 
-## Mac Brain
+The Basel Face Database (BFD) is built upon portrait photographs of forty different individuals. All these photographs have been manipulated to appear more or less agentic and communal (Big Two personality dimensions) as well as open to experience, conscientious, extraverted, agreeable, and neurotic (Big Five personality dimensions). Thus, the database consists of forty photographs of different individuals and 14 variations of each of them signaling different personalities. Using this database therefore allows to investigate the impact of personality on different outcome variables in a very systematic way.
+
+The BFD consists of photographs of 18 male and 22 female undergraduate students from the University of Basel with an average age of 23 years. The individuals look directly towards the camera with a neutral, relaxed facial expression.
+
+All 40 photographs have been systematically manipulated to show reduced or enhanced values on the Big Two (agency and communion) and on the Big Five (openness, conscientiousness, extraversion, agreeableness, and extraversion) personality dimensions. This results in a total of 15 images per individual, and 600 images in total.
+
+The validation file contains means and standard deviations of the Big Two and Big Five personality judgments as well as naturalness judgements for all 600 images.
+
+Downloaded, not used, came from mirella.walker@unibas.ch but rebecca.goetsch@stud.unibas.ch replied.
+
+### Reference
+Walker, M., Schönborn, S., Greifeneder, R., & Vetter, T. (2018). The Basel Face Database: A validated set of photographs reflecting systematic differences in Big Two and Big Five personality dimensions. PloS one, 13(3). doi: https://doi.org/10.1371/journal.pone.0193190
+
+
+### Conditions
+
+The BFD has been developed by Mirella Walker and colleagues at the University of Basel, Switzerland. The BFD can be used freely for non-commercial scientific research.
+
+The only problem is that they state that the images may not be modified ([point 4](https://bfd.unibas.ch/en/request/license-agreement/)).
+
+
+## Mac Brain (not working)
 https://www.macbrain.org/resources.htm 
 
-## Radboud Faces Database
+Not downloaded, contacted but with no response.
 
+### Conditions
+By downloading the set, you agree to use the images for research purposes only and agree to the following terms: only models #01, 03, 18, 28, 40, & 45 may be published, and these may only be published in scientific journals. Researchers may not publish images from the remaining models anywhere.
+
+
+## Radboud Faces Database (not working)
 https://www.ru.nl/bsi/research/facilities/radboud-faces-database/ 
+
+Database validated in the paper by Langner 2010, but at the page [www.rafd.nl](www.rafd.nl) neither on [www.socsci.ru.nl](www.socsci.ru.nl) › RaFD2 › RaFD, I am not able to download the database (the pages do not load).
+
+### Reference
+Oliver Langner, Ron Dotsch, Gijsbert Bijlstra, Daniel H. J. Wigboldus, Skyler T. Hawk & Ad van Knippenberg (2010) Presentation and validation of the Radboud Faces Database, Cognition and Emotion, 24:8, 1377-1388, DOI: 10.1080/02699930903485076 
+
+[DOI](https://doi.org/10.1080/02699930903485076)
+
