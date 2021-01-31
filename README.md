@@ -128,6 +128,8 @@ https://aice.uva.nl/research-tools/adfes-stimulus-set/adfes-stimulus-set.html
 Van der Schalk, J., Hawk, S. T., Fischer, A. H., & Doosje, B. J. Moving faces, looking places: The Amsterdam Dynamic Facial Expressions Set (ADFES), Emotion.
 [https://pubmed.ncbi.nlm.nih.gov/21859206/](https://pubmed.ncbi.nlm.nih.gov/21859206/)
 
+[https://www.researchgate.net/profile/Agneta_Fischer/publication/51587980_Moving_Faces_Looking_Places_Validation_of_the_Amsterdam_Dynamic_Facial_Expression_Set_ADFES/links/0fcfd510b913c9f849000000/Moving-Faces-Looking-Places-Validation-of-the-Amsterdam-Dynamic-Facial-Expression-Set-ADFES.pdf](https://www.researchgate.net/profile/Agneta_Fischer/publication/51587980_Moving_Faces_Looking_Places_Validation_of_the_Amsterdam_Dynamic_Facial_Expression_Set_ADFES/links/0fcfd510b913c9f849000000/Moving-Faces-Looking-Places-Validation-of-the-Amsterdam-Dynamic-Facial-Expression-Set-ADFES.pdf)
+
 ### 
 Conditions 
 
