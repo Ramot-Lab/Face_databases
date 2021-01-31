@@ -40,21 +40,40 @@ Pfister, T.; Xiaobai Li; Guoying Zhao; Pietikainen, M.; "Differentiating spontan
 The user will send an electronic copy of all papers that reference the database to: xiaobai.li@oulu.fi.
 
 
-## Psychological Image Collection at Stirling (PICS)
+## Psychological Image Collection at Stirling (PICS), University of Stirling
 This is a collection of images useful for conducting experiments in psychology, primarily faces, though other submissions are welcome. They are free for research use.
 
 http://pics.psych.stir.ac.uk/2D_face_sets.htm 
 
+There are several datasets:
+* Aberdeen:  
+      687 Colour faces from Ian Craw at Aberdeen. Between 1 and 18 images of 90 individuals.  Some variations in lighting, 8 have varied viewpoint. Resolution: varied: 336x480 to 624x544
+      
+* Iranian women:  
+      369 images, 34 women, mostly with smile and neutral in each of five orientations. Resolution: 1200x900 colour
+
+* Nottingam scans (not that good):  
+      50 males and 50 females in neutral, frontal pose. Resolution: 358-463 to 468x536 monochrome
+
+* Stirling faces (not that good):  
+      312 images: 35 identities (18 female, 17 male), in 3 poses and 3 expressions. Resolution: 269x369 monochrome
+* Pain expressions:  
+      599 images; posed expressions, usually 2 of each of the six basic emotions plus 10 of pain, also 45 degree and profile neutral. 13 women, 10 men. Resolution: 720x576 colour
+* Utrecht  
+      131 images, 49 men, 20 women, usually a neutral and smile of each, collected at the European Conference on Visual Perception in Utrecht, 2008.  Some more to come, and 3d versions of these images in preparation. Resolution: 900x1200 colou
+* Mooney  
+      2 sets of 24 Mooney faces, coded as male/female or looking left/right.  BMP format, 575x580 pixels
 
 ### Reference
 To cite PICS in a paper, please quote this URL, [pics.stir.ac.uk](pics.stir.ac.uk).
 
+### Aberdeen -- I think this is the same
+https://www.researchgate.net/post/Im-looking-for-a-data-base-with-lots-of-pictures-of-faces-of-different-ethnicity-with-neutral-expressions-Any-suggestions 
+
+
 ## Oslo database
 https://sirileknes.com/oslo-face-database/ 
 
-
-## Aberdeen
-https://www.researchgate.net/post/Im-looking-for-a-data-base-with-lots-of-pictures-of-faces-of-different-ethnicity-with-neutral-expressions-Any-suggestions 
 
 ## CFD -- Chicago face database
 https://chicagofaces.org/default/ 
