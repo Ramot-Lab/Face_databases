@@ -74,6 +74,14 @@ https://www.researchgate.net/post/Im-looking-for-a-data-base-with-lots-of-pictur
 ## Oslo database
 https://sirileknes.com/oslo-face-database/ 
 
+The folder on [Dropbox](https://www.dropbox.com/sh/h8o2pr9hwj70jfq/AADCSZgEqro2INJR3JPpNhb4a?dl=0) contains the images, face ratings, luminescense matching and some other masks. But may not be accessible (I'm not the owner).
+
+### Reference
+Chelnokova O, Laeng B, Eikemo M, Riegels J, Løseth G, Maurud H, Willoch F, Leknes S (2014) Rewards of Beauty: The Opioid System Mediates Social Motivation in Humans. Mol Psychiatry 19:746-747.
+[article](https://www.nature.com/articles/mp20141)
+
+### Conditions
+There is an agreement pdf file (and on a webpage they have a form), I obrained from one guy in the lab who had it (Arik Shkolnikov). They have 4 pictures (M071, M023, F074, M048) which can be published, they're in the pdf.
 
 ## CFD -- Chicago face database
 https://chicagofaces.org/default/ 
