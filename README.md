@@ -15,12 +15,21 @@ Face Image Meta-Database (fimdb)](https://clffwrkmn.net/search.php?username=clif
 * Research Gate entries:
    * [1](https://www.researchgate.net/post/Does_sombeody_know_a_large_database_of_human_faces_which_one_can_use_for_research_purposes)
    * [2](https://www.researchgate.net/post/Im-looking-for-a-data-base-with-lots-of-pictures-of-faces-of-different-ethnicity-with-neutral-expressions-Any-suggestions)
+   
+* Some links are also accessible from [PICS webpage](http://pics.psych.stir.ac.uk/Other_face_databases.htm).
 
 
 # Used databases
 ## Carolinska 
-The Averaged Karolinska Directed Emotional Faces dataset (ref Lundqvist, D., & Litton, J. E. (1998). The Averaged Karolinska Directed Emotional Faces)
+The Averaged Karolinska Directed Emotional Faces dataset (Lundqvist, D., & Litton, J. E. (1998). The Averaged Karolinska Directed Emotional Faces, the [homepage](https://kdef.se/home/aboutKDEF.html))
 
+### Reference
+Lundqvist, D., Flykt, A., & Öhman, A. (1998). The Karolinska Directed Emotional Faces—KDEF (CD ROM). Stockholm: Karolinska Institute, Department of Clinical Neuroscience, Psychology Section.
+
+### Conditions
+They state [here](https://www.kdef.se/home/using%20and%20publishing%20kdef%20and%20akdef.html) that you have to cite but can freely use (but their point C and B are weirdly contraicting themselves).
+
+Stimuli can be published.
 
 ## SPOS - Spontaneous vs. Posed Facial Expression Database
 
@@ -28,10 +37,17 @@ The Averaged Karolinska Directed Emotional Faces dataset (ref Lundqvist, D., & L
 Pfister, T.; Xiaobai Li; Guoying Zhao; Pietikainen, M.; "Differentiating spontaneous from posed facial expressions within a generic facial expression recognition framework". Computer Vision Workshops (ICCV Workshops), 2011 IEEE International Conference, vol., no., pp.868-875, 6-13 Nov. 2011
 
 ### Conditions
-The user will send an electronic copy of all papers that reference the database to: xiaobai.li@oulu.fi
-Psychological Image Collection at Stirling (PICS)
+The user will send an electronic copy of all papers that reference the database to: xiaobai.li@oulu.fi.
+
+
+## Psychological Image Collection at Stirling (PICS)
+This is a collection of images useful for conducting experiments in psychology, primarily faces, though other submissions are welcome. They are free for research use.
+
 http://pics.psych.stir.ac.uk/2D_face_sets.htm 
 
+
+### Reference
+To cite PICS in a paper, please quote this URL, [pics.stir.ac.uk](pics.stir.ac.uk).
 
 ## Oslo database
 https://sirileknes.com/oslo-face-database/ 
