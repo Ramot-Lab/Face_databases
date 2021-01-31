@@ -40,7 +40,7 @@ Pfister, T.; Xiaobai Li; Guoying Zhao; Pietikainen, M.; "Differentiating spontan
 The user will send an electronic copy of all papers that reference the database to: xiaobai.li@oulu.fi.
 
 
-## Psychological Image Collection at Stirling (PICS), University of Stirling
+## PICS -- Psychological Image Collection at Stirling, University of Stirling
 This is a collection of images useful for conducting experiments in psychology, primarily faces, though other submissions are welcome. They are free for research use.
 
 http://pics.psych.stir.ac.uk/2D_face_sets.htm 
@@ -120,7 +120,7 @@ Identifier: DOI 10.17605/OSF.IO/A3947
 ### Conditions
 License: CC-By Attribution 4.0 International 
 
-## ADFES
+## ADFES -- Amsterdam Dynamic Facial Expression Set
 https://aice.uva.nl/research-tools/adfes-stimulus-set/adfes-stimulus-set.html 
 
 
@@ -180,7 +180,7 @@ Keep in mind that you CANNOT publish faces from the individuals in the 10k-image
 **we would appreciate it if you update us on who has access to the database if it changes, just so we can keep our access records up to date. A quick email with the names of people who have access will work!**
 
 
-## Basel database 
+## BFDB -- Basel face database 
 https://bfd.unibas.ch/en/ 
 
 The Basel Face Database (BFD) is built upon portrait photographs of forty different individuals. All these photographs have been manipulated to appear more or less agentic and communal (Big Two personality dimensions) as well as open to experience, conscientious, extraverted, agreeable, and neurotic (Big Five personality dimensions). Thus, the database consists of forty photographs of different individuals and 14 variations of each of them signaling different personalities. Using this database therefore allows to investigate the impact of personality on different outcome variables in a very systematic way.
