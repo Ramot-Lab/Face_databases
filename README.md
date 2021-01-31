@@ -1,4 +1,4 @@
-# Face_databases
+# Face databases
 List of used and downloaded databases available on lab StorWis
 
 
@@ -109,8 +109,38 @@ Use of the database materials should be acknowledged as follows:
 ## 3DSK face set with webmorph templates
 https://osf.io/vrd4e/ 
 
+In the folder above is a readme file discussing rating of the stimuli (and bunch of rating containing csv files).
+Open set of 50 male and 50 female face photographs with webmorph templates
+
+Last Updated: 2020-02-06 12:46 PM
+
+### Reference
+Identifier: DOI 10.17605/OSF.IO/A3947
+
+### Conditions
+License: CC-By Attribution 4.0 International 
+
 ## ADFES
 https://aice.uva.nl/research-tools/adfes-stimulus-set/adfes-stimulus-set.html 
+
+
+### Reference
+Van der Schalk, J., Hawk, S. T., Fischer, A. H., & Doosje, B. J. Moving faces, looking places: The Amsterdam Dynamic Facial Expressions Set (ADFES), Emotion.
+[https://pubmed.ncbi.nlm.nih.gov/21859206/](https://pubmed.ncbi.nlm.nih.gov/21859206/)
+
+### 
+Conditions 
+
+The researchers involved in producing this stimulus set permit its use for scientific research, free of charge, on the basis of the following agreement with the user: 
+
+1. No copies will be made or distributed without explicit consent of the producers. Publishing examples of the stimuli in scientific papers is allowed after obtaining written consent from the producers.
+2. Any commercial use of the stimulus set is strictly prohibited.
+3. The user will provide the Department of Social Psychology at theUniversity of Amsterdam with copies of any publications in which the set has been used (for information only).
+4. The user will cite the stimulus set with the following reference:
+    Van der Schalk, J., Hawk, S. T., Fischer, A. H., & Doosje, B. J. (in press).Moving faces, looking places: The Amsterdam Dynamic Facial Expressions Set (ADFES), Emotion.
+5. The user will confirm agreement by ticking the box below, by providing a valid e-mail address and by declaring affiliation with an accredited research institution.
+
+
 
 ## London Set
 https://figshare.com/articles/dataset/Face_Research_Lab_London_Set/5047666 
