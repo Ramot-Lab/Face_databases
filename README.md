@@ -5,7 +5,16 @@ List of used and downloaded databases available on lab StorWis
 # List of databases
 
 Places where to look for more databases:
-https://rystoli.github.io/FSTC.html 
+
+* [Ryan M Stolier
+Columbia University](https://rystoli.github.io/FSTC.html)
+
+* SQL database of (all) databases, [
+Face Image Meta-Database (fimdb)](https://clffwrkmn.net/search.php?username=cliffwor_guest&password=cliffwor_guest&database=cliffwor_mysql&qsource=&qacronym=&qdownload=&qcategories=&qnotes=&qreference=&qnimgs=&qnimgs_min=&qnimgs_max=&qsets=&qsets_min=&qsets_max=&qnimcat=&qnimcat_min=&qnimcat_max=&qsubs=&qsubs_min=&qsubs_max=&qf=&qf_min=&qf_max=&qm=&qm_min=&qm_max=&qnviewpts=&qnviewpts_min=&qnviewpts_max=&qneu=&qneu_min=&qneu_max=&qnonneu=&qnonneu_min=&qnonneu_max=&submit=Submit+Query)
+
+* Research Gate entries:
+ * [1](https://www.researchgate.net/post/Does_sombeody_know_a_large_database_of_human_faces_which_one_can_use_for_research_purposes)
+ * [2](https://www.researchgate.net/post/Im-looking-for-a-data-base-with-lots-of-pictures-of-faces-of-different-ethnicity-with-neutral-expressions-Any-suggestions)
 
 
 # Used databases
