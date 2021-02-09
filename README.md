@@ -233,9 +233,40 @@ Oliver Langner, Ron Dotsch, Gijsbert Bijlstra, Daniel H. J. Wigboldus, Skyler T.
 [DOI](https://doi.org/10.1080/02699930903485076)
 
 
+# Emotions
+
+## NimStim
+
+https://danlab.psychology.columbia.edu/content/nimstim-set-facial-expressions
+
+Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474329/
+
+This set is large in number, multiracial, and available to the scientific community online. The results of psychometric evaluations of these stimuli are presented. The results lend empirical support for the validity and reliability of this set of facial expressions as determined by accurate identification of expressions and high intra-participant agreement across two testing sessions, respectively.
+
+[Info](https://osf.io/y86rw/wiki/home/): Dataset is comprising of 672 images of naturally posed photographs by 43 professional actors (18 female, 25 male) ranging from 21 to 30 years old. Actors from a diverse sample were chosen to portray emotional expressions within this dataset. To be precise, the actors were African-American (N = 10), Asian-American (N = 6), European-American (N = 25), Latino-American (N = 2). The images contained in this dataset include eight emotional expressions, namely: neutral, angry, disgust, surprise, sad, calm, happy, and afraid. Both open and closed mouth versions were provided for all emotional expressions, with the exception of surprise (only open mouth provided) and happy (high arousal open mouth/exuberant provided). The face stimuli can be accessed for free on: http://www.macbrain.org/resources.htm.
+
+### Reference
+
+N. Tottenham, J.W. Tanaka, A.C. Leon, et al., The NimStim set of facial expressions: judgments from untrained research participants, Psychiatry Res, 168 (2009), pp. 242-249
+
+### Conditions
+
+They write the following conditions for download which might be problematic:
+
+a) research institution where the laboratory resides (including address and phone number associated with the institution)
+
+b) all of the names and emails of the Principal Investigators (i.e. laboratory heads)
+
+c) a description of the research study
+
+d) confirm that the data will be collected in a laboratory (not online, in a classroom, or other public medium)
+
+
+
 # Paid databases
 
 ## Pictures of Facial Affect (POFA), The Ekman 60 Faces Test
+
 https://www.paulekman.com/product/pictures-of-facial-affect-pofa/
 
 Costs $399, has been the most widely used and validated series of photographs in facial expression research. The Ekman 60 Faces Test can be used to assess recognition of facial expressions of basic emotions. The maximum test score indicating best performance is 60 for all six emotions (happiness, sadness, disgust, fear, surprise and anger) and 10 for each basic emotion.
