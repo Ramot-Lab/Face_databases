@@ -232,3 +232,21 @@ Oliver Langner, Ron Dotsch, Gijsbert Bijlstra, Daniel H. J. Wigboldus, Skyler T.
 
 [DOI](https://doi.org/10.1080/02699930903485076)
 
+
+# Paid databases
+
+## Pictures of Facial Affect (POFA), The Ekman 60 Faces Test
+https://www.paulekman.com/product/pictures-of-facial-affect-pofa/
+
+Costs $399, has been the most widely used and validated series of photographs in facial expression research. The Ekman 60 Faces Test can be used to assess recognition of facial expressions of basic emotions. The maximum test score indicating best performance is 60 for all six emotions (happiness, sadness, disgust, fear, surprise and anger) and 10 for each basic emotion.
+
+The POFA collection consists of 110 photographs of facial expressions that have been widely used in cross-cultural studies, and more recently, in neuropsychological research. All images are black and white.  A brochure providing norms is included with the collection. It is important to  note that these images are not identical in intensity or facial configuration.
+
+### Reference
+P. Ekman, W. Friesen, Pictures of facial affect, Consulting Psychologists Press, Palo Alto, CA (1976)
+
+### Conditions
+
+Permission is given to the person who has made this purchase and may use these images solely for the research project originally intended. Permission must be requested separately to reprint the images within the paper associated with this project.
+
+Any subsequent project(s) or paper(s) will require you to seek new permission.
