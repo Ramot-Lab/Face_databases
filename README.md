@@ -245,6 +245,8 @@ This set is large in number, multiracial, and available to the scientific commun
 
 [Info](https://osf.io/y86rw/wiki/home/): Dataset is comprising of 672 images of naturally posed photographs by 43 professional actors (18 female, 25 male) ranging from 21 to 30 years old. Actors from a diverse sample were chosen to portray emotional expressions within this dataset. To be precise, the actors were African-American (N = 10), Asian-American (N = 6), European-American (N = 25), Latino-American (N = 2). The images contained in this dataset include eight emotional expressions, namely: neutral, angry, disgust, surprise, sad, calm, happy, and afraid. Both open and closed mouth versions were provided for all emotional expressions, with the exception of surprise (only open mouth provided) and happy (high arousal open mouth/exuberant provided). The face stimuli can be accessed for free on: http://www.macbrain.org/resources.htm.
 
+Checked with them, not possible to use online at all!
+
 ### Reference
 
 N. Tottenham, J.W. Tanaka, A.C. Leon, et al., The NimStim set of facial expressions: judgments from untrained research participants, Psychiatry Res, 168 (2009), pp. 242-249
