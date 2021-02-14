@@ -213,6 +213,26 @@ Saribay SA, Biten AF, Meral EO, Aldan P, Třebický V, Kleisner K (2018) The Bog
 ### Conditions
 Data are available from Bogazici University, Department of Psychology for researchers who meet the criteria for access to confidential data. As stated within the paper, an e-mail request must be sent to psy@boun.edu.tr and an agreement form must be signed, scanned, and sent back, upon which data are electronically transferred.
 
+## RADIATE Emotional Face Stimulus Set
+http://fablab.yale.edu/page/assays-tools
+The racially diverse affective expression (RADIATE) face stimulus set is designed to provide an open-access set of 1,721 facial expressions of Black, White, Hispanic and Asian adult models. Psychometric results are provided describing the initial validity and reliability of the stimuli based on judgments of the emotional expressions.
+
+There are 3 links to download from:
+* https://drive.google.com/file/d/17Wh1S5Bo-ETnIwpGjmC_LdWq3X-I3mLf/view
+* https://drive.google.com/file/d/1jdKPZL-9TCTp-SdCSwK7kv-VoIFogYPw/view
+* https://drive.google.com/file/d/1RqYcmumDATsvO9-LiE0siNRUbzkUwKYx/view
+
+### Reference
+The [paper](https://www.sciencedirect.com/science/article/pii/S0165178117321893#bib0044) and the reference:
+
+Conley, M. I., Dellarco, D. V., Rubien-Thomas, E., Cohen, A. O., Cervera, A., Tottenham, N., & Casey, B. J. (2018). The racially diverse affective expression (RADIATE) face stimulus set. Psychiatry research.
+
+They also write to cite [NimStim paper](https://www.sciencedirect.com/science/article/abs/pii/S0165178108001480?via%3Dihub), do not know why.
+Tottenham, N, Tanaka, JW, Leon, AC, McCarry, T, Nurse, M, Hare, TA, Marcus, DJ, Westerlund, A, Casey, BJ & Nelson, C. (2009). 
+
+### Conditions
+By downloading these stimuli, I agree to use them solely for approved institutional research or educational purposes and to not use them in any way to deliberately or inadvertently identify the individuals in the pictures.  When referring to these stimuli in publications or talks, please cite  the following references (see above).
+
 ## Mac Brain (not working)
 https://www.macbrain.org/resources.htm 
 
