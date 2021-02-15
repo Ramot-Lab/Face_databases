@@ -233,6 +233,21 @@ Tottenham, N, Tanaka, JW, Leon, AC, McCarry, T, Nurse, M, Hare, TA, Marcus, DJ, 
 ### Conditions
 By downloading these stimuli, I agree to use them solely for approved institutional research or educational purposes and to not use them in any way to deliberately or inadvertently identify the individuals in the pictures.  When referring to these stimuli in publications or talks, please cite  the following references (see above).
 
+## FEI Face Database
+https://fei.edu.br/~cet/facedatabase.html
+
+The FEI face database is a Brazilian face database that contains a set of face images taken between June 2005 and March 2006 at the Artificial Intelligence Laboratory of FEI in São Bernardo do Campo, São Paulo, Brazil. There are 14 images for each of 200 individuals, a total of 2800 images. All images are colourful and taken against a white homogenous background in an upright frontal position with profile rotation of up to about 180 degrees. Scale might vary about 10% and the original size of each image is 640x480 pixels. All faces are mainly represented by students and staff at FEI, between 19 and 40 years old with distinct appearance, hairstyle, and adorns. The number of male and female subjects are exactly the same and equal to 100. Figure 1 shows some examples of image variations from the FEI face database.
+
+### Reference
+Probably this but I'm unsure:
+Thomaz, C.E.; Giraldi, G.A. A new ranking method for Principal Components Analysis and its application to face image analysis. Image Vision Comput. 2010, 28, 902–913. 
+
+It's not the database per se but was cited in [here](https://www.mdpi.com/1424-8220/15/1/1071/htm#b46-sensors-15-01071).
+
+### Conditions
+The FEI face database is available for research purposes only. Permission to use but not distribute or reproduce this database is granted to all researchers.
+
+
 ## Mac Brain (not working)
 https://www.macbrain.org/resources.htm 
 
