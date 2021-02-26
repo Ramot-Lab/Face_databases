@@ -210,6 +210,10 @@ Face database of Turkish undergraduate student targets. High-resolution standard
 ### Reference
 Saribay SA, Biten AF, Meral EO, Aldan P, Třebický V, Kleisner K (2018) The Bogazici face database: Standardized photographs of Turkish faces with supporting materials. PLoS ONE 13(2): e0192018. doi:10.1371/journal.pone.0192018
 
+Here is the updated citation:
+
+Saribay, S. A., Biten, A. F., Meral, E. O., Aldan, P., Třebický, V., & Kleisner, K. (2018). The Bogazici face database: Standardized photographs of Turkish faces with supporting materials. PLoS ONE, 13(2): e0192018. doi:10.1371/journal.pone.0192018
+
 ### Conditions
 Data are available from Bogazici University, Department of Psychology for researchers who meet the criteria for access to confidential data. As stated within the paper, an e-mail request must be sent to psy@boun.edu.tr and an agreement form must be signed, scanned, and sent back, upon which data are electronically transferred.
 
