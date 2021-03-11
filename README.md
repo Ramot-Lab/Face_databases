@@ -202,7 +202,7 @@ The BFD has been developed by Mirella Walker and colleagues at the University of
 
 The only problem is that they state that the images may not be modified ([point 4](https://bfd.unibas.ch/en/request/license-agreement/)).
 
-## Bogazici face database (Turks, not downloaded)
+## Bogazici face database (Turks)
 [University](https://socpsy.boun.edu.tr/materials/faces) and the [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192018) where there is a form for asking for the database.
 
 Face database of Turkish undergraduate student targets. High-resolution standardized photographs were taken and supported by the following materials: (a) basic demographic and appearance-related information, (b) two types of landmark configurations (for Webmorph and geometric morphometrics (GM)), (c) facial width-to-height ratio (fWHR) measurement, (d) information on photography parameters, (e) perceptual norms provided by raters
@@ -216,6 +216,8 @@ Saribay, S. A., Biten, A. F., Meral, E. O., Aldan, P., Třebický, V., & Kleisne
 
 ### Conditions
 Data are available from Bogazici University, Department of Psychology for researchers who meet the criteria for access to confidential data. As stated within the paper, an e-mail request must be sent to psy@boun.edu.tr and an agreement form must be signed, scanned, and sent back, upon which data are electronically transferred.
+
+Email sent, took them quite a long time to answer (15 dyas) but good.
 
 ## RADIATE Emotional Face Stimulus Set
 http://fablab.yale.edu/page/assays-tools
@@ -274,6 +276,53 @@ Oliver Langner, Ron Dotsch, Gijsbert Bijlstra, Daniel H. J. Wigboldus, Skyler T.
 
 # Emotions
 
+## FACES -- A database of facial expressions in younger, middle-aged, and older women and men
+https://faces.mpdl.mpg.de/imeji/
+
+FACES is a set of images of naturalistic faces of 171 young (n = 58), middle-aged (n = 56), and older (n = 57) women and men displaying each of six facial expressions: neutrality, sadness, disgust, fear, anger, and happiness. The FACES database was developed between 2005 and 2007 by Natalie C. Ebner, Michaela Riediger, and Ulman Lindenberger at the Center for Lifespan Psychology, Max Planck Institute for Human Development, Berlin, Germany.
+
+The database comprises two sets of pictures per person and per facial expression (a vs. b set), resulting in a total of 2,052 images. A subset of 72 pictures is available *without having to register in order to apply for a personal account*. **Research-related publication and display of the publicly available FACES objects are permitted for the purpose of illustrating research methodology.** However, if you plan to use the corresponding objects for such purposes, please register for FACES and send the FACES Platform Release Agreement (with a short description of how you plan to use the publicly available objects) to the FACES Technical Agent.
+
+For detailed information about the development and validation of the database see Ebner, N., Riediger, M., & Lindenberger, U. (2010). FACES—A database of facial expressions in young, middle-aged, and older women and men: Development and validation. Behavior research Methods, 42, 351-362. doi:10.3758/BRM.42.1.351. Please always refer to this publication whenever you use objects from the FACES platform.
+
+After development of the face stimuli, in a subsequent validation study, a total of 154 young (n = 52), middle-aged (n = 51), and older (n = 51) women and men rated the faces in terms of facial expression, perceived age, attractiveness, and distinctiveness. These picture-specific normative ratings can be downloaded here :
+
+    rating results for facial expression
+    rating results for perceived age
+    rating results for attractiveness
+    rating results for distinctiveness
+
+The first two dimensions (facial expression and perceived age) are described in Ebner, N., Riediger, M., & Lindenberger, U. (2010). FACES—A database of facial expressions in young, middle-aged, and older women and men: Development and validation. Behavior research Methods, 42, 351-362. doi:10.3758/BRM.42.1.351. More detailed descriptions for the latter two dimensions are available in Ebner, N. C., Luedicke, J., Voelkle, M. C., Riediger, M., Lin, T., & Lindenberger, U. (2018). An adult developmental approach to perceived facial attractiveness and distinctiveness. Frontiers in Psychology, 9:561. doi:10.3389/fpsyg.2018.00561.
+
+#### Dynamic FACES
+
+Dynamic FACES is an extension of the original FACES database. It is a database of morphed videos (n = 1,026) of young, middle-aged, and older adults displaying six naturalistic emotional facial expressions including neutrality, sadness, disgust, fear, anger, and happiness. Static images used for morphing came from the original FACES database. Videos were created by transitioning from a static neutral image to a target emotion. Videos are available in 384 x 480 pixels as .mp4 files or in original size of 1280 x1600 as .mov files.
+
+For further information about Dynamic FACES see:
+
+Holland, C. A. C., Ebner, N. C., Lin, T., & Samanez-Larkin, G. R. (2019). Emotion identification across adulthood using the Dynamic FACES database of emotional expressions in younger, middle aged, and older adults. Cognition and Emotion, 33, 245-257. doi:10.1080/02699931.2018.1445981.
+
+#### Scrambled FACES
+
+All 2,052 images from the original FACES database were scrambled using MATLAB. With the randblock function, original FACES files were treated as 800x1000x3 matrices – the third dimension denoting specific RGB values – and partitioned into non-overlapping 2x2x3 blocks. The matrices were then randomly shuffled by these smaller blocks, providing final images that matched the dimensions of the original image and were composed of the same individual pixels, although arranged differently. All scrambled images are 800x1000 jpeg files (96 dpi). 
+
+### Reference
+
+There are many on their webpage, this is the main, the rest I believe we do not need (some are about age, the dynamic database, ...).
+https://link.springer.com/article/10.3758/BRM.42.1.351
+
+Ebner, N., Riediger, M., & Lindenberger, U. (2010). FACES—A database of facial expressions in young, middle-aged, and older women and men: Development and validation. Behavior research Methods, 42, 351-362. doi:10.3758/BRM.42.1.351
+
+### Conditions
+FACES is freely available for usage in scientific research.
+
+Without a user account, only the pictures of six exemplary persons (72 pictures) can be viewed. Full access to this online service and all its objects is possible after registration and log in.
+
+Researchers can apply for an account on a case-by-case (i.e., person-by-person and study-by-study) basis.
+
+-> Applied, took ~ 15 days to get an answer after sending them the agreement and a mail to Natalie.
+
+
 ## NimStim
 
 https://danlab.psychology.columbia.edu/content/nimstim-set-facial-expressions
@@ -284,7 +333,7 @@ This set is large in number, multiracial, and available to the scientific commun
 
 [Info](https://osf.io/y86rw/wiki/home/): Dataset is comprising of 672 images of naturally posed photographs by 43 professional actors (18 female, 25 male) ranging from 21 to 30 years old. Actors from a diverse sample were chosen to portray emotional expressions within this dataset. To be precise, the actors were African-American (N = 10), Asian-American (N = 6), European-American (N = 25), Latino-American (N = 2). The images contained in this dataset include eight emotional expressions, namely: neutral, angry, disgust, surprise, sad, calm, happy, and afraid. Both open and closed mouth versions were provided for all emotional expressions, with the exception of surprise (only open mouth provided) and happy (high arousal open mouth/exuberant provided). The face stimuli can be accessed for free on: http://www.macbrain.org/resources.htm.
 
-Checked with them, not possible to use online at all!
+**Checked with them, not possible to use online at all!**
 
 ### Reference
 
