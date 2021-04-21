@@ -254,6 +254,24 @@ It's not the database per se but was cited in [here](https://www.mdpi.com/1424-8
 The FEI face database is available for research purposes only. Permission to use but not distribute or reproduce this database is granted to all researchers.
 
 
+## Wits database, WFD -- African database (not used, not downloaded, not contacted)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986986/
+
+sample 
+http://wiredspace.wits.ac.za/handle/10539/29924
+
+This paper aims to review the available databases and describe the development of a high resolution, standardised facial photograph and CCTV recording database of male Africans. The database is composed of a total of 6220 standardised and uncontrolled suboptimal facial photographs of 622 matching individuals in five different views, as well as corresponding CCTV footage of 334 individuals recorded under different realistic conditions. 
+
+### Reference
+ Bacci N, Davimes J, Steyn M and Briers N. Development of the Wits Face Database: an African database of high-resolution facial photographs and multimodal closed-circuit television (CCTV) recordings [version 1; peer review: 2 approved]. F1000Research 2021, 10:131 (https://doi.org/10.12688/f1000research.50887.1).
+
+### Conditions
+The WFD is stored on the Wits Institutional Repository environment on DSpace (WIReDSpace) and published under the following unique identifier: http://doi.org/10.17605/OSF.IO/WMA4C (this registration also contains the PhD study protocol that led to the development of the WFD and an addendum to the protocol registration highlighting the major changes to the methodological approach of the original protocol). A sample of the dataset is freely accessible at https://hdl.handle.net/10539/29924.
+
+The database is an open access resource for use in strictly non-commercial research. In order to access the WFD, prospective users will have to apply for access to the Institutional Review Board overseeing ethical and scientific use of the database in order to safeguard the privacy and decency of the database’s participants. Once approved a researcher may use the database free of charge. Database access is restricted and limited to following the above-mentioned procedure, due to the nature of the data including potentially identifying information (facial physiognomy) of participants. In addition, strict limitations were imposed by the Human Research Ethics Committee (Medical) as well as the consent permissions agreed upon with the participants, which assign responsibility to the School of Anatomical Sciences to review access applications in ethical and scientific merit in order to exclusively conduct research. The access procedures and limitations are governed by a legally binding Conditions of Use document available on https://hdl.handle.net/10539/29924 40 in conjunction to the freely accessible sample. Data will be made available to successful applicants under a temporary restricted licence guided by the aforementioned conditions of use document.
+
+
+
 ## Mac Brain (not working)
 https://www.macbrain.org/resources.htm 
 
