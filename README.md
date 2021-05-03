@@ -94,7 +94,7 @@ There are two main databases:
 2. **CFD-MR**  
       The CFD-MR extension set includes images of 88 unique individuals, who self-reported multiracial ancestry. All models were recruited in the United States. The images depict models with neutral facial expressions. Additional facial expression images with happy (open mouth), happy (closed mouth), angry, and fearful expressions are in production and will become available with a future update of the database. Norming data include the standard set of CFD objective and subjective image norms as well as the models’ self-reported ancestry. Subjective norms are based on a U.S. rater sample.
 
-3. **CFD-INDIA **  
+3. **CFD-INDIA**  
       The CFD-India extension set includes images of 142 unique individuals, recruited in Delhi, India. The images depict models with neutral facial expressions. Additional facial expression images with happy (open mouth), happy (closed mouth), angry, and fearful expressionsare in production and will become available with a future update of the database. Norming data include the standard set of CFD objective and subjective image norms and self-reported background information on the models (e.g., ancestry, home state, caste). Subjective norms are available for a U.S. rater sample and for a sample of raters recruited in India. In addition, an extended set of self-reported model background data (e.g., ancestry, home state, caste) is available upon request.
 
 NOTE: The addition background data not requested yet.
