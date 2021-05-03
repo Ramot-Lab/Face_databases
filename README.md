@@ -94,17 +94,25 @@ There are two main databases:
 2. **CFD-MR**  
       The CFD-MR extension set includes images of 88 unique individuals, who self-reported multiracial ancestry. All models were recruited in the United States. The images depict models with neutral facial expressions. Additional facial expression images with happy (open mouth), happy (closed mouth), angry, and fearful expressions are in production and will become available with a future update of the database. Norming data include the standard set of CFD objective and subjective image norms as well as the models’ self-reported ancestry. Subjective norms are based on a U.S. rater sample.
 
-3. ***CFD-INDIA (Forthcoming)***  
-      The CFD-India extension set includes images of 142 unique individuals, recruited in Delhi, India. The images depict models with neutral facial expressions. Additional facial expression images with happy (open mouth), happy (closed mouth), angry, and fearful expressionsare in production and will become available with a future update of the database. Norming data include the standard set of CFD objective and subjective image norms and self-reported background information on the models (e.g., ancestry, home state, caste). Subjective norms are available for a U.S. rater sample and for a sample of raters recruited in India.
+3. **CFD-INDIA **  
+      The CFD-India extension set includes images of 142 unique individuals, recruited in Delhi, India. The images depict models with neutral facial expressions. Additional facial expression images with happy (open mouth), happy (closed mouth), angry, and fearful expressionsare in production and will become available with a future update of the database. Norming data include the standard set of CFD objective and subjective image norms and self-reported background information on the models (e.g., ancestry, home state, caste). Subjective norms are available for a U.S. rater sample and for a sample of raters recruited in India. In addition, an extended set of self-reported model background data (e.g., ancestry, home state, caste) is available upon request.
+
+NOTE: The addition background data not requested yet.
+
+      
+      
 
 ### Reference
 
 Use of the database materials should be acknowledged as follows:
 1. CFD: Ma, Correll, & Wittenbrink (2015). The Chicago Face Database: A Free Stimulus Set of Faces and Norming Data. Behavior Research Methods, 47, 1122-1135.
 2. CFD-MR: Ma, D.S., Kantner, J. & Wittenbrink, B. (2020). Chicago Face Database: Multiracial Expansion. Behavior Research Methods. https://doi.org/10.3758/s13428-020-01482-5.
+3. Lakshmi, Wittenbrink, Correll, & Ma (2020). The India Face Set: International and Cultural Boundaries Impact Face Impressions and Perceptions of Category Membership. Frontiers in Psychology, 12, 161. https://doi.org/10.3389/fpsyg.2021.627678.
 
 ### Conditions
 The CFD and its expansion sets are a free resource for the scientific community. The database photographs and their accompanying information may be used free of charge for non-commercial research purposes only. The database materials cannot be re-distributed or published without written consent from the copyright holder, the University of Chicago, Center for Decision Research.
+
+Had to submit a form after version 3.0 (ie after the India addition).
 
 ## 3DSK face set with webmorph templates
 https://osf.io/vrd4e/ 
