@@ -31,6 +31,14 @@ They state [here](https://www.kdef.se/home/using%20and%20publishing%20kdef%20and
 
 Stimuli can be published.
 
+### Ratings of the stimuli
+The paper is https://www.frontiersin.org/articles/10.3389/fpsyg.2017.02181/full and the data https://osf.io/35ga8/.
+
+Front. Psychol., 19 December 2017 | https://doi.org/10.3389/fpsyg.2017.02181
+KDEF-PT: Valence, Emotional Intensity, Familiarity and Attractiveness Ratings of Angry, Neutral, and Happy Faces
+Margarida V. Garrido and Marília Prada.
+
+
 ## SPOS - Spontaneous vs. Posed Facial Expression Database
 
 ### Reference
