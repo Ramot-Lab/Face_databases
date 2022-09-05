@@ -388,6 +388,20 @@ c) a description of the research study
 d) confirm that the data will be collected in a laboratory (not online, in a classroom, or other public medium)
 
 
+## Padova Emotional Dataset of Facial Expressions (PEDFE)
+A unique dataset of genuine and posed emotional facial expressions
+
+Paper: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474329/](https://link.springer.com/article/10.3758/s13428-022-01914-4)
+
+This dataset tries to fill this gap, providing a considerable amount (N = 1458) of dynamic genuine (N = 707) and posed (N = 751) clips of the six universal emotions from 56 participants. The dataset is available in two versions: original clips, including participants’ body and background, and modified clips, where only the face of participants is visible. Notably, the original dataset has been validated by 122 human raters, while the modified dataset has been validated by 280 human raters. Hit rates for emotion and genuineness, as well as the mean, standard deviation of genuineness, and intensity perception, are provided for each clip to allow future users to select the most appropriate clips needed to answer their scientific questions.
+
+### Reference
+
+Miolla, A., Cardaioli, M. & Scarpazza, C. Padova Emotional Dataset of Facial Expressions (PEDFE): A unique dataset of genuine and posed emotional facial expressions. Behav Res (2022). https://doi.org/10.3758/s13428-022-01914-4
+
+### Conditions
+The PEDFE stimuli as well as the Supplementary Materials are made freely available to the research community (https://osf.io/cynsx/). An End User License Agreement (EULA) needs to be produced for accessing the database.
+
 
 # Paid databases
 
