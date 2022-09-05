@@ -407,3 +407,19 @@ P. Ekman, W. Friesen, Pictures of facial affect, Consulting Psychologists Press,
 Permission is given to the person who has made this purchase and may use these images solely for the research project originally intended. Permission must be requested separately to reprint the images within the paper associated with this project.
 
 Any subsequent project(s) or paper(s) will require you to seek new permission.
+
+---
+
+# Audiovisual databases
+
+## The Sabancı University Dynamic Face Database (SUDFace)
+The SUDFace database consists of 150 high-resolution audiovisual videos acquired in a controlled lab environment and stored with a resolution of 1920 × 1080 pixels at a frame rate of 60 Hz. The multimodal database consists of three videos of each human model in frontal view in three different conditions: vocalizing two scripted texts (conditions 1 and 2) and one Free Speech (condition 3). The main focus of the SUDFace database is to provide a large set of dynamic faces with neutral facial expressions and natural speech articulation. Variables such as face orientation, illumination, and accessories (piercings, earrings, facial hair, etc.) were kept constant across all stimuli. We provide detailed stimulus information, including facial features (pixel-wise calculations of face length, eye width, etc.) and speeches (e.g., duration of speech and repetitions). In two validation experiments, a total number of 227 participants rated each video on several psychological dimensions (e.g., neutralness and naturalness of expressions, valence, and the perceived mental states of the models) using Likert scales. The database is freely accessible for research purposes.
+
+### Reference
+https://link.springer.com/article/10.3758/s13428-022-01951-z
+
+Şentürk, Y.D., Tavacioglu, E.E., Duymaz, İ. et al. The Sabancı University Dynamic Face Database (SUDFace): Development and validation of an audiovisual stimulus set of recited and free speeches with neutral facial expressions. Behav Res (2022). https://doi.org/10.3758/s13428-022-01951-z
+
+### Conditions
+Freely accessible for research purposes:
+>The SUDFace database generated in the development study can be accessed in the “Sabancı University Dynamic Face Database” folder from [drive.google.com/drive/folders/1xzxLbza4qiI3XkkHIPycAKyypFspu_vb?usp=sharing](drive.google.com/drive/folders/1xzxLbza4qiI3XkkHIPycAKyypFspu_vb?usp=sharing). Also, datasets generated during and analyzed during the validation study are available in the “Dataset” folder, https://osf.io/b4vju/?view_only=1dd006d0d4504a2982d31968d9c360f6.
