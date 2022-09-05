@@ -18,6 +18,8 @@ Face Image Meta-Database (fimdb)](https://clffwrkmn.net/search.php?username=clif
    
 * Some links are also accessible from [PICS webpage](http://pics.psych.stir.ac.uk/Other_face_databases.htm).
 
+* Another list of face databases can be found at https://www.face-rec.org/databases/.
+
 
 # Used databases
 ## Carolinska 
