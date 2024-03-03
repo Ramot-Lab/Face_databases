@@ -37,6 +37,8 @@ List of used and downloaded databases available on lab StorWis
    - [Pictures of Facial Affect (POFA), The Ekman 60 Faces Test](#pictures-of-facial-affect-pofa-the-ekman-60-faces-test)
 5. [Audiovisual databases](#audiovisual-databases)
    - [The Sabancı University Dynamic Face Database (SUDFace)](#the-sabancı-university-dynamic-face-database-sudface)
+6. [Databases with artificially created faces](#databases-with-artificially-created-faces)
+   - [One Million Impressions (OMI)](#One-Million-Impressions-(OMI))
 
 
 # List of databases
@@ -474,3 +476,48 @@ https://link.springer.com/article/10.3758/s13428-022-01951-z
 ### Conditions
 Freely accessible for research purposes:
 >The SUDFace database generated in the development study can be accessed in the “Sabancı University Dynamic Face Database” folder from [drive.google.com/drive/folders/1xzxLbza4qiI3XkkHIPycAKyypFspu_vb?usp=sharing](drive.google.com/drive/folders/1xzxLbza4qiI3XkkHIPycAKyypFspu_vb?usp=sharing). Also, datasets generated during and analyzed during the validation study are available in the “Dataset” folder, https://osf.io/b4vju/?view_only=1dd006d0d4504a2982d31968d9c360f6.
+
+---
+
+# Databases with artificially created faces
+
+## One Million Impressions (OMI)
+The diversity of human faces and the contexts in which they appear gives rise to an expansive stimulus space over which people infer psychological traits (e.g., trustworthiness or alertness) and other attributes (e.g., age or adiposity). Machine learning methods, in particular deep neural networks, provide expressive feature representations of face stimuli, but the correspondence between these representations and various human attribute inferences is difficult to determine because the former are high-dimensional vectors produced via black-box optimization algorithms. Here we combine deep generative image models with over 1 million judgments to model inferences of more than 30 attributes over a comprehensive latent face space. The predictive accuracy of our model approaches human interrater reliability, which simulations suggest would not have been possible with fewer faces, fewer judgments, or lower-dimensional feature representations. Our model can be used to predict and manipulate inferences with respect to arbitrary face photographs or to generate synthetic photorealistic face stimuli that evoke impressions tuned along the modeled attributes.
+
+### Reference
+https://www.pnas.org/doi/abs/10.1073/pnas.2115228119
+
+Github: https://github.com/jcpeterson/omi
+
+Peterson, J. C., Uddenberg, S., Griffiths, T. L., Todorov, A., & Suchow, J. W. (2022). Deep models of superficial face judgments. Proceedings of the National Academy of Sciences (PNAS), 119(17), e2115228119. doi:10.1073/pnas.2115228119
+
+### Conditions
+The data is distributed under the Creative Commons BY-NC-SA 4.0 license. If you intend to use it, please see LICENSE.txt for more information:
+```
+The One Million Impressions (OMI) face dataset is a dataest of both
+synthetic human face stimuli and corresponding attribute ratings
+from a large-scale behavioral experiment corresponding to the
+following publication:
+  
+    Peterson, J. C., Uddenberg, S., Griffiths, T., Todorov, A., & Suchow,
+    J. W. (2022). Deep models of superficial face judgments. Proceedings 
+    of the National Academy of Sciences (PNAS).
+    
+It is the joint creation of the authors listed above.
+
+The OMI face dataset (including any metadata, scripts, and
+documentation) is made available under Creative Commons BY-NC-SA 4.0 license.
+You can use, redistribute, and adapt it for non-commercial purposes, 
+as long as you (a) give appropriate credit by citing our paper, 
+(b) indicate any changes that you've made, and
+(c) distribute any derivative works under the same license.
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
+    
+The face dataset used to create the underlying models that in
+turn were used to generate our synthetic faces can be found at:
+
+https://github.com/NVlabs/ffhq-dataset
+https://github.com/NVlabs/stylegan2
+```
+
