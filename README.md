@@ -38,7 +38,9 @@ List of used and downloaded databases available on lab StorWis
 5. [Audiovisual databases](#audiovisual-databases)
    - [The Sabancı University Dynamic Face Database (SUDFace)](#the-sabancı-university-dynamic-face-database-sudface)
 6. [Databases with artificially created faces](#databases-with-artificially-created-faces)
-   - [One Million Impressions (OMI)](#One-Million-Impressions-(OMI))
+   - [One Million Impressions (OMI)](#one-million-impressions-%28omi%29)
+7. [Tools to create artificial faces](#tools-to-create-artificial-faces)
+   - [Makehuman and FaReT](#makehuman-and-faret)
 
 
 # List of databases
@@ -520,4 +522,20 @@ turn were used to generate our synthetic faces can be found at:
 https://github.com/NVlabs/ffhq-dataset
 https://github.com/NVlabs/stylegan2
 ```
+
+---
+# Tools to create artificial faces
+
+## Makehuman and FaReT
+The reference for the first is this website: [http://www.makehumancommunity.org/](http://www.makehumancommunity.org/). The second is a paper and a package.
+
+### Face Research Toolkit: A free and open-source toolkit of three-dimensional models and software to study face perception.
+A problem in the study of face perception is that results can be confounded by poor stimulus control. Ideally, experiments should precisely manipulate facial features under study and tightly control irrelevant features. Software for 3D face modeling provides such control, but there is a lack of free and open source alternatives specifically created for face perception research. Here, we provide such tools by expanding the open-source software MakeHuman. We present a database of 27 identity models and six expression pose models (sadness, anger, happiness, disgust, fear, and surprise), together with software to manipulate the models in ways that are common in the face perception literature, allowing researchers to: (1) create a sequence of renders from interpolations between two or more 3D models (differing in identity, expression, and/or pose), resulting in a “morphing” sequence; (2) create renders by extrapolation in a direction of face space, obtaining 3D “anti-faces” and caricatures; (3) obtain videos of dynamic faces from rendered images; (4) obtain average face models; (5) standardize a set of models so that they differ only in selected facial shape features, and (6) communicate with experiment software (e.g., PsychoPy) to render faces dynamically online. These tools vastly improve both the speed at which face stimuli can be produced and the level of control that researchers have over face stimuli. We validate the face model database and software tools through a small study on human perceptual judgments of stimuli produced with the toolkit.
+
+### Reference
+https://link.springer.com/article/10.3758/s13428-020-01421-4 or https://osf.io/preprints/psyarxiv/jb53v (preprint)
+
+Github: https://github.com/fsotoc/FaReT
+
+Hays, J. S., Wong, C., & Soto, F. (2020). FaReT: A free and open-source toolkit of three-dimensional models and software to study face perception. Behavior Research Methods, 5.(6), 2604-2622.
 
