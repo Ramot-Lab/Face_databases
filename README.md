@@ -25,6 +25,7 @@ List of used and downloaded databases available on lab StorWis
    - [RADIATE Emotional Face Stimulus Set](#radiate-emotional-face-stimulus-set)
    - [FEI Face Database](#fei-face-database)
    - [Wits database, WFD -- African database (not used, not downloaded, not contacted)](#wits-database-wfd----african-database-not-used-not-downloaded-not-contacted)
+   - [Wild Faces Database, WFD (not used, not downloaded)](#wild-faces-database-wfd-not-used-not-downloaded)
    - [Mac Brain (not working)](#mac-brain-not-working)
    - [Radboud Faces Database (not working)](#radboud-faces-database-not-working)
 3. [Emotions](#emotions)
@@ -328,6 +329,21 @@ This paper aims to review the available databases and describe the development o
 The WFD is stored on the Wits Institutional Repository environment on DSpace (WIReDSpace) and published under the following unique identifier: http://doi.org/10.17605/OSF.IO/WMA4C (this registration also contains the PhD study protocol that led to the development of the WFD and an addendum to the protocol registration highlighting the major changes to the methodological approach of the original protocol). A sample of the dataset is freely accessible at https://hdl.handle.net/10539/29924.
 
 The database is an open access resource for use in strictly non-commercial research. In order to access the WFD, prospective users will have to apply for access to the Institutional Review Board overseeing ethical and scientific use of the database in order to safeguard the privacy and decency of the database’s participants. Once approved a researcher may use the database free of charge. Database access is restricted and limited to following the above-mentioned procedure, due to the nature of the data including potentially identifying information (facial physiognomy) of participants. In addition, strict limitations were imposed by the Human Research Ethics Committee (Medical) as well as the consent permissions agreed upon with the participants, which assign responsibility to the School of Anatomical Sciences to review access applications in ethical and scientific merit in order to exclusively conduct research. The access procedures and limitations are governed by a legally binding Conditions of Use document available on https://hdl.handle.net/10539/29924 40 in conjunction to the freely accessible sample. Data will be made available to successful applicants under a temporary restricted licence guided by the aforementioned conditions of use document.
+
+
+## Wild Faces Database, WFD (not used, not downloaded)
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986986/](https://www.nature.com/articles/s41598-023-32659-5)
+
+sample 
+[https://osf.io/6p4r7/](https://osf.io/6p4r7/)
+
+Facial expressions are thought to be complex visual signals, critical for communication between social agents. Most prior work aimed at understanding how facial expressions are recognized has relied on stimulus databases featuring posed facial expressions, designed to represent putative emotional categories (such as ‘happy’ and ‘angry’). Here we use an alternative selection strategy to develop the Wild Faces Database (WFD); a set of one thousand images capturing a diverse range of ambient facial behaviors from outside of the laboratory. We characterized the perceived emotional content in these images using a standard categorization task in which participants were asked to classify the apparent facial expression in each image. In addition, participants were asked to indicate the intensity and genuineness of each expression. While modal scores indicate that the WFD captures a range of different emotional expressions, in comparing the WFD to images taken from other, more conventional databases, we found that participants responded more variably and less specifically to the wild-type faces, perhaps indicating that natural expressions are more multiplexed than a categorical model would predict. We argue that this variability can be employed to explore latent dimensions in our mental representation of facial expressions. Further, images in the WFD were rated as less intense and more genuine than images taken from other databases, suggesting a greater degree of authenticity among WFD images. The strong positive correlation between intensity and genuineness scores demonstrating that even the high arousal states captured in the WFD were perceived as authentic. Collectively, these findings highlight the potential utility of the WFD as a new resource for bridging the gap between the laboratory and real world in studies of expression recognition.
+
+### Reference
+Long, H., Peluso, N., Baker, C.I. et al. A database of heterogeneous faces for studying naturalistic expressions. Sci Rep 13, 5383 (2023). https://doi.org/10.1038/s41598-023-32659-5
+
+### Conditions
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
 
 
 
