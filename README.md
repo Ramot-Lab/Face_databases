@@ -280,7 +280,10 @@ Data are available from Bogazici University, Department of Psychology for resear
 Email sent, took them quite a long time to answer (15 dyas) but good.
 
 ## RADIATE Emotional Face Stimulus Set
-http://fablab.yale.edu/page/assays-tools
+Old link (being migrated as of 03/2025): http://fablab.yale.edu/page/assays-tools
+
+New link: https://abcdstudy.org/scientists/abcd-fmri-tasks-and-tools/
+
 The racially diverse affective expression (RADIATE) face stimulus set is designed to provide an open-access set of 1,721 facial expressions of Black, White, Hispanic and Asian adult models. Psychometric results are provided describing the initial validity and reliability of the stimuli based on judgments of the emotional expressions.
 
 There are 3 links to download from:
