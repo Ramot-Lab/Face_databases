@@ -34,6 +34,7 @@ List of used and downloaded databases available on lab StorWis
      - [Scrambled FACES](#scrambled-faces)
    - [NimStim](#nimstim)
    - [Padova Emotional Dataset of Facial Expressions (PEDFE)](#padova-emotional-dataset-of-facial-expressions-pedfe)
+   - [Israeli Face Database (IFD)](#Israeli-Face-Database-(IFD))
 4. [Paid databases](#paid-databases)
    - [Pictures of Facial Affect (POFA), The Ekman 60 Faces Test](#pictures-of-facial-affect-pofa-the-ekman-60-faces-test)
 5. [Audiovisual databases](#audiovisual-databases)
@@ -46,7 +47,7 @@ List of used and downloaded databases available on lab StorWis
 
 # List of databases
 
-Places where to look for more databases:
+Places to look for more databases:
 
 * [Ryan M Stolier
 Columbia University](https://rystoli.github.io/FSTC.html)
@@ -461,6 +462,22 @@ Miolla, A., Cardaioli, M. & Scarpazza, C. Padova Emotional Dataset of Facial Exp
 
 ### Conditions
 The PEDFE stimuli as well as the Supplementary Materials are made freely available to the research community (https://osf.io/cynsx/). An End User License Agreement (EULA) needs to be produced for accessing the database.
+
+## Israeli Face Database (IFD)
+
+Paper: [https://link.springer.com/article/10.3758/s13428-025-02723-1](https://link.springer.com/article/10.3758/s13428-025-02723-1)
+
+Human faces and their representations play a key role in social interactions. Consequently, face images are widely used as stimuli across psychological research. However, most available face databases primarily represent Western, predominantly White populations, raising concerns about the generalizability of findings derived from such nondiverse stimuli sets. The current work addresses this problem by introducing the Israeli Face Database (IFD), a novel database presenting face images of real individuals from an ethnically diverse population underrepresented in psychological research on face perception—people residing in Israel. The IFD features multiple highly controlled images per face identity, presenting several facial expressions. Additionally, we provide detailed demographic data on the face identities, expression validation data rated by Israeli participants, and social norming data rated by both Israeli and US-based participants. Validation data (Study 1) confirmed that the expression images in the IFD accurately convey their intended expressions. Norming data analysis (Study 2) revealed that judgments of IFD faces were broadly consistent across cultures, with notable variations in perceived typicality and perceived ethnic diversity. These results highlight the IFD’s strong psychometric properties and its ability to capture nuanced cultural and individual differences in face perception. We propose that the IFD can serve as a valuable tool for diversifying stimuli in social-psychological research.
+
+### Reference
+Trzewik, M., Navon, M., Moran, T. et al. The Israeli Face Database (IFD): A multi-ethnic database of faces with supporting social norming data. Behav Res 57, 197 (2025). https://doi.org/10.3758/s13428-025-02723-1
+
+### Conditions
+The data and materials for both studies are available on the Open Science Framework (https://osf.io/q2n7k/). *To access the database,* please email ifd.faces@bgu.ac.il.
+Access page for the database is at [https://scmbbgu.wixsite.com/scmblab/ifb](https://scmbbgu.wixsite.com/scmblab/ifb).
+
+License: CC-By Attribution 4.0 International
+
 
 
 # Paid databases
